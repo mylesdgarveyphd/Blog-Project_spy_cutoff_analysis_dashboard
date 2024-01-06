@@ -1,0 +1,20 @@
+ChatGPT Prompt:
+  
+I would like to create a Shiny Dashboard that is (1) professional looking, (2) has different pages and,
+(3) each page represents a "step" in an analysis.  Here are the steps:
+
+Step 1: Defining an "Abnormal" Event
+Step 2: Identifying Past Abnormal Events
+Step 3: Exploring "Time Since" Events
+Step 4: Exploring the Time Differences Between Events
+Step 5: Exploring How Abnormal Events Impact Stock Returns
+
+The page should have a red and blue theme, using low alpha versions of these colors.  
+It should look professional.  Each page should have a template that looks like: 
+Header
+text
+ggplotply
+text
+ggplotly
+text
+
