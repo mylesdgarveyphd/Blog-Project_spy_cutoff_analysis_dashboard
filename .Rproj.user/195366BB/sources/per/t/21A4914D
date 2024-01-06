@@ -1,0 +1,26 @@
+{
+    "id": "21A4914D",
+    "path": "~/Blog-Projects/Blog-Project_spy_cutoff_analysis/Blog-Project_spy_cutoff_analysis_dashboard/Blog-Project_spy_cutoff_analysis_dashboard/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "2701703516",
+    "contents": "",
+    "dirty": false,
+    "created": 1704574925609.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "68,39",
+        "scrollLine": "59"
+    },
+    "folds": "122|24|171|2|\n174|30|190|2|\n193|27|219|2|\n221|23|227|2|\n230|29|250|2|\n252|29|273|2|\n275|43|281|2|\n283|31|306|2|\n308|29|338|2|\n340|29|368|2|\n",
+    "lastKnownWriteTime": 1704580254,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1704580254563,
+    "read_only": false,
+    "read_only_alternatives": []
+}
